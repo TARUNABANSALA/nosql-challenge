@@ -1,1 +1,1 @@
-# nosql-challenge
+# nosql-challenge: I have incorporated detailed explanatory step before performing the respective queries and finally printing them in the required way
